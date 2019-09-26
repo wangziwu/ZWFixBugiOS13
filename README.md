@@ -1,7 +1,7 @@
 # ZWFixBugiOS13
 临时修复ZLPhotoBrowser在iOS13下present模式无法全屏的问题
 
- - PS:将ZLCustomCamera与ZLImageNavigationController类添加category拦截modalPresentationStyle方法，强制UIModalPresentationFullScreen
+ - 将ZLCustomCamera与ZLImageNavigationController类添加category拦截modalPresentationStyle方法，强制UIModalPresentationFullScreen
 
  - 你只需要将文件夹拖入项目中即可修复无法全屏的问题
 
