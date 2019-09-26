@@ -1,0 +1,4 @@
+# ZWFixBugiOS13
+临时修复ZLPhotoBrowser在iOS13下present模式无法全屏的问题
+
+将文件夹拖入项目中即可
